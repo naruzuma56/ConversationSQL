@@ -1,5 +1,4 @@
-%%writefile app.py
-# app.py
+
 import os
 import io
 import json
